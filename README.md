@@ -1,2 +1,2 @@
 # TeamNote
-library about function we often use
+library about functions we often use
